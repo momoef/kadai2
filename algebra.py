@@ -6,7 +6,7 @@
 import numpy as np
 
 x = 100
-print("x=", x)
+print("x = ", x)
 
 ########## 課題1(a)
 print("Hello, World")
